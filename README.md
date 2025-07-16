@@ -44,6 +44,11 @@
 - ❌ Exit
 - 🔗 Visit GitHub
 
+---
+
+## 🖥️ Preview
+
+<img width="570" height="300" alt="Screenshot 2025-07-16 234705" src="https://github.com/user-attachments/assets/a2519e6c-10d6-45bb-8cc2-d08d5de5b91b" />
 
 ---
 
@@ -66,7 +71,7 @@
 
 ## 👤 Author
 
-Made with 💻 by **Stranac**  
+Made with Python by **Stranac**  
 🔗 [GitHub Profile](https://github.com/Str4nac)
 
 ---
