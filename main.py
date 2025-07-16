@@ -318,7 +318,7 @@ def print_banner():
     print("║" + " " * 29 + "By Stranac" + " " * 29 + "║")
     print("║" + " " * 68 + "║")
     print("║" + " " * 24 + "AES • RSA • ChaCha20" + " " * 24 + "║")
-    print("║" + " " * 24 + "Open Source & Simple" + " " * 24 + "║")
+    print("║" + " " * 24 + "Open-Source & Simple" + " " * 24 + "║")
     print("╚" + "═" * 68 + "╝")
     print()
 
@@ -496,7 +496,7 @@ def main():
         elif choice == '8':
             print("\n" + "┌" + "─" * 48 + "┐")
             print("│ 👋 Thank you for using EncryptWareX!        │")
-            print("│ 🔐 Stay secure! Open Source & Simple       │")
+            print("│ 🔐 Stay secure! Open-Source & Simple       │")
             print("└" + "─" * 48 + "┘")
             sys.exit(0)
 
