@@ -314,7 +314,7 @@ def open_github():
 def print_banner():
     print("╔" + "═" * 68 + "╗")
     print("║" + " " * 28 + "EncryptWareX" + " " * 28 + "║")
-    print("║" + " " * 30 + "Beta 0.1" + " " * 30 + "║")
+    print("║" + " " * 29 + "Beta 0.1.0" + " " * 29 + "║")
     print("║" + " " * 29 + "By Stranac" + " " * 29 + "║")
     print("║" + " " * 68 + "║")
     print("║" + " " * 24 + "AES • RSA • ChaCha20" + " " * 24 + "║")
@@ -495,8 +495,8 @@ def main():
 
         elif choice == '8':
             print("\n" + "┌" + "─" * 48 + "┐")
-            print("│ 👋 Thank you for using EncryptWareX!        │")
-            print("│ 🔐 Stay secure! Open-Source & Simple       │")
+            print("│ 👋 Thank you for using EncryptWareX!           │")
+            print("│ 🔐 Stay secure! Open-Source & Simple           │")
             print("└" + "─" * 48 + "┘")
             sys.exit(0)
 
