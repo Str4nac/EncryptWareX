@@ -2,7 +2,7 @@
 
 **EncryptWareX** is a simple and powerful file encryption tool for Windows. It supports three encryption algorithms: **AES**, **RSA**, and **ChaCha20**, and comes as a standalone `.exe` file — no installation required.
 
-[![Version: Beta-0.1](https://img.shields.io/badge/version-beta--0.1-yellow)](https://tvojprojekat.com)
+[![Version: Beta-0.1.0](https://img.shields.io/badge/version-beta--0.1.0-yellow)]([https://tvojprojekat.com](https://github.com/Str4nac/EncryptWareX/releases))
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Str4nac/EncryptWareX/tree/main?tab=MIT-1-ov-file)
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 
