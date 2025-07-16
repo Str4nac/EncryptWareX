@@ -31,7 +31,7 @@
 1. Download the latest `EncryptWareX.exe` from the [Releases](https://github.com/Str4nac/EncryptWareX/releases)
 2. Create a folder and put `EncryptWareX.exe` inside it. This is necessary because the program will create three additional folders: logs, backups, and keys
 3. Double-click to launch the app
-4. The application might take some time to launch the first time
+4. The app might take some time to launch the first time
 5. Follow the menu instructions
 
 - 🔒 Encrypt File
